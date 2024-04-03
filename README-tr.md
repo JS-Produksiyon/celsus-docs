@@ -1,7 +1,7 @@
 <table>
 <body>
 <tr>
-    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo.svg" alt="Celsus RPYY Logo" style="height:100px; width:auto;"></td>
+    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo.svg" alt="Celsus Logo" style="height:100px; width:auto;"></td>
     <td style="valign-middle"><img src="img/celsus-suite-logotype-tr.svg" alt="Celsus Radyo Program Yönetim Yazılımı Logotype" style="height:90px;width:auto"></td>
 </tr>
 </body>
