@@ -9,6 +9,9 @@
 
 # Celsus Radyo Program Yönetim Yazılımı Belgelemesi
 
+**Dil**: Türkçe  
+**Son güncellenme:** 2024-04-03 | JMW
+
 <p style="text-align:center; font-weight: bold">!! Bu uygulama hâlâ geliştirilme aşamasındadır !!</p>
 
 Celsus Radyo Program Yönetim Yazılımı, birçok farklı dilde birden fazla radyo istasyonu için radyo programlarını ve ilgili podcastleri yönetmek ve takip etmek için merkezi bir yazılım altyapısını sağlar sağlar. Celsus RPYY, çok dilli olmak üzere tasarlanmıştır ve bağımsız olarak veya WordPress veya Drupal çalıştıran uzak sunucularla tam entegrasyon içinde kullanılabilir.

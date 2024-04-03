@@ -1,13 +1,15 @@
 <table>
 <body>
 <tr>
-    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo-small.png" alt="Celsus RPMS Logo"></td>
-    <td style="valign-middle"><img src="img/celsus-suite-logotype-en.png" alt="Celsus Radio PRogram Management Suite Logotype"></td>
-</tr>
+    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo.svg" alt="Celsus RPDB Logo" style="height:100px; width:auto;"></td>
+    <td style="valign-middle"><img src="img/celsus-suite-logotype-en.svg" alt="Celsus Radio Program Management Suite Logotype" style="height:90px;width:auto"></td></tr>
 </body>
 </table>
 
 # Celsus Radio Program Management Suite Documentation
+
+**Language:** English (en-us)  
+**Last Update:** 2024-04-03 | JMW
 
 <p style="text-align:center; font-weight: bold">!! This application is currently still under development !!</p>
 

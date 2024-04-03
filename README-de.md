@@ -9,6 +9,9 @@
 
 # Celsus Radioprogramm Verwaltungssuite Dokumentation
 
+**Sprache:** Deutsch (de-de)  
+**Letzter Update:** 2024-04-03 | JMW
+
 <p style="text-align:center; font-weight: bold">!! Diese Anwendung befindet sich derzeit noch in der Entwicklung !!</p>
 
 Die Celsus Radioprogramm Verwaltungssuite bietet einen Satz von Tools zur zentralisierten Verwaltung und Verfolgung von Radioprogrammen und zugehörigen Podcasts für mehrere Radiosender in vielen verschiedenen Sprachen. Celsus RPVS ist so konzipiert, dass es vollständig mehrsprachig ist und eigenständig oder in voller Integration mit Remote-Servern verwendet werden kann, auf denen WordPress oder Drupal ausgeführt wird.
