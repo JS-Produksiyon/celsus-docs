@@ -1,17 +1,30 @@
-![Celsus RPMS logo](img/celsus%20logo.svg) 
-![Celsus RPMS Logotype](img/celsus-suite-logotype-de.svg)
+<table>
+<body>
+<tr>
+    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo-small.png" alt="Celsus RPMS Logo"></td>
+    <td style="valign-middle"><img src="img/celsus-suite-logotype-de.png" alt="Celsus Radioprogramm Verwaltungssuite Logotype"></td>
+</tr>
+</body>
+</table>
 
-# Celsus Radio Program Management Suite Documentation
+# Celsus Radioprogramm Verwaltungssuite Dokumentation
 
-This repository will contain the documentation for the Celsus Radio Program Management Suite
+<p style="text-align:center; font-weight: bold">!! Diese Anwendung befindet sich derzeit noch in der Entwicklung !!</p>
 
-Modules
-- Celsus Radio Program Database
-- Celsus Dataduct
-- Celsus Data Display WordPress Plugin
-- Celsus Data Display Drupal Extension
+Die Celsus Radioprogramm Verwaltungssuite bietet einen Satz von Tools zur zentralisierten Verwaltung und Verfolgung von Radioprogrammen und zugehörigen Podcasts für mehrere Radiosender in vielen verschiedenen Sprachen. Celsus RPVS ist so konzipiert, dass es vollständig mehrsprachig ist und eigenständig oder in voller Integration mit Remote-Servern verwendet werden kann, auf denen WordPress oder Drupal ausgeführt wird.
 
-Available Languages
-- English
-- German (Deutsch)
-- Turkish (Türkçe)
+Celsus RPVS ist Copyright © Hawke AI und JS Prodüksiyon Ltd. Şti. Alle Rechte vorbehalten. 
+
+Die Software ist teilweise Open Source, d.h. ernsthafte Anfragen zur Einsicht in den Code werden auf schriftliche Anfrage an dev@hawke-ai.com oder yazilim@jsproduksiyon.com gewährt. Die Nutzung von Celsus RPVS ist durch eine spezielle Lizenz geregelt. Eine eingeschränkte Testversion, in der alle Funktionen eingeschränkt funktionsfähig sind, kann kostenlos genutzt werden. Für die Nutzung aller Funktionen ist der Erwerb einer Lizenz erforderlich.
+
+
+## Modules
+- Celsus Radioprogrammdatenbank
+- Celsus Datenleitung
+- Celsus WordPress-Plugin zur Datenanzeige
+- Celsus Drupal-Modul zur Datenanzeige
+
+## Available Languages
+- Deutsch
+- [Englisch (English)](README.md)
+- [Türkisch (Türkçe)](README-tr.md)
