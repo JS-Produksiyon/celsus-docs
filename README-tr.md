@@ -1,13 +1,13 @@
 <table>
 <body>
 <tr>
-    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo-small.png" alt="Celsus RPMS Logo"></td>
-    <td style="valign-middle"><img src="img/celsus-suite-logotype-tr.png" alt="Celsus Radyo Program Yönetim Yazımımı Logotype"></td>
+    <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo.svg" alt="Celsus RPYY Logo" style="height:100px; width:auto;"></td>
+    <td style="valign-middle"><img src="img/celsus-suite-logotype-tr.svg" alt="Celsus Radyo Program Yönetim Yazılımı Logotype" style="height:90px;width:auto"></td>
 </tr>
 </body>
 </table>
 
-# Celsus Radyo Program Yönetim Yazılımı
+# Celsus Radyo Program Yönetim Yazılımı Belgelemesi
 
 <p style="text-align:center; font-weight: bold">!! Bu uygulama hâlâ geliştirilme aşamasındadır !!</p>
 
