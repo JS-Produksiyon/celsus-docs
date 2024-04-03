@@ -1,4 +1,4 @@
-<table style="border:none">
+<table>
 <body>
 <tr>
     <td style="width:100px; valign: middle; margin-right: 1rem;"><img src="img/celsus-logo.svg" alt="Celsus Logo" style="height:100px; width:auto;"></td>
